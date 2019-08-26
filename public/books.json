@@ -1,0 +1,175 @@
+[
+  {
+    "id": 0,
+    "title": "Шефбургер",
+    "MadeIn": "КФС",
+    "image":
+      "https://statickfc.cdnvideo.ru/products/medium/product_830_2119550876.png",
+    "price": 950,
+    "rating": 3
+  },
+  {
+    "id": 1,
+    "title": "Темный БоксМастер",
+    "MadeIn": "КФС",
+    "image":
+      "https://statickfc.cdnvideo.ru/products/medium/product_658_1643845384.png",
+    "price": 1400,
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "title": "Твистер Де Люкс острый/оригинальный",
+    "MadeIn": "КФС",
+    "image":
+      "https://statickfc.cdnvideo.ru/products/medium/product_649_1830088294.png",
+    "price": 1000,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "title": "Бик Мак",
+    "MadeIn": "McDonald’s",
+    "image":
+      "https://mcdonalds.kz/uploads/menu/teasers/tpJ6KITSms.jpeg",
+    "price": 900,
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "title": "Картофель Фри",
+    "MadeIn": " McDonald’s",
+    "image":
+      "https://mcdonalds.kz/uploads/menu/teasers/j3RssQ9CdA.png",
+    "price": 500,
+    "rating": 1
+  },
+  {
+    "id": 5,
+    "title": "McCombo Двойной Роял Чизбургер",
+    "MadeIn": "McDonald’s",
+    "image":
+      "https://mcdonalds.kz/uploads/menu/teasers/tjSTIp5Mv1.png",
+    "price": 1800,
+    "rating": 0
+  },
+  {
+    "id": 6,
+    "title":
+      "McCombo Роял Чизбургер",
+    "MadeIn": "McDonald’s",
+    "image":
+      "https://mcdonalds.kz/uploads/menu/teasers/LVA5oz6dOC.png",
+    "price": 1800,
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "title": "КРИСПИ ЧИКЕН",
+    "MadeIn": "Burger King",
+    "image":
+      "https://burgerking.kz/uploads/menuproducts/image/big_1539162690.png",
+    "price": 850,
+    "rating": 0
+  },
+  {
+    "id": 8,
+    "title": "ДВОЙНОЙ КРИСПИ ЧИКЕН С СЫРОМ",
+    "MadeIn": "Burger King",
+    "image":
+     "https://burgerking.kz/uploads/menuproducts/image/big_1504967188.png",
+    "price": 1350,
+    "rating": 5
+  },
+  {
+    "id": 9,
+    "title": "ВОППЕР® ДЖУНИОР КОМБО",
+    "MadeIn": "Burger King",
+    "image":
+      "https://burgerking.kz/uploads/menuproducts/image/big_1466004779.png",
+    "price": 882,
+    "rating": 2
+  },
+  {
+    "id": 10,
+    "title": "ДВОЙНОЙ ВОППЕР® КОМБО",
+    "MadeIn": "Burger King",
+    "image":
+      "https://burgerking.kz/uploads/menuproducts/image/big_1465467651.png",
+    "price": 2000,
+    "rating": 1
+  },
+  {
+    "id": 11,
+    "title": "ДВОЙНОЙ ГАМБУРГЕР КОМБО",
+    "MadeIn": "Burger King",
+    "image":
+      "https://burgerking.kz/uploads/menuproducts/image/big_1465467651.png",
+    "price": 2000,
+    "rating": 3
+  },
+  {
+    "id": 12,
+    "title": "Пицца 4-сыра ",
+    "MadeIn": "Фаст-Фуд Куропатка",
+    "image":
+      "http://kuropatka.kz/thumb/2/wi3yZ8U3DI0tdWxYWNxAPg/420r420/d/bez_nazvaniya.png",
+    "price": 2000,
+    "rating": 3
+  },
+  {
+    "id": 13,
+    "title": "Байтс большой(300гр)",
+    "MadeIn": "КФС",
+    "image":
+      "https://statickfc.cdnvideo.ru/products/medium/product_289_687360994.png",
+    "price": 850,
+    "rating": 2
+  },
+  {
+    "id": 14,
+    "title": "Байтс Терияки",
+    "MadeIn": "КФС",
+    "image":
+      "https://statickfc.cdnvideo.ru/products/medium/product_803_767499096.png",
+    "price": 750,
+    "rating": 5
+  },
+  {
+    "id": 15,
+    "title": "Детский обед с игрушкой",
+    "MadeIn": "КФС",
+    "image":
+      "https://statickfc.cdnvideo.ru/products/medium/product_304_151003900.png",
+    "price": 1100,
+    "rating": 4
+  },
+  {
+    "id": 17,
+    "title": "Баскет (25 Крыльев)",
+    "MadeIn": "КФС",
+    "image":
+      "https://statickfc.cdnvideo.ru/products/medium/product_291_466655595.png",
+    "price": 1500,
+    "rating": 4
+  },
+  {
+    "id": 18,
+    "title": "Лонгер Классик",
+    "MadeIn": "КФС",
+    "image":
+      "https://statickfc.cdnvideo.ru/products/medium/product_999_837753807.png",
+    "price": 350,
+    "rating": 5
+  },
+  {
+    "id": 19,
+    "title":
+      "Френдс Бокс",
+    "MadeIn": "КФС",
+    "image":
+      "https://statickfc.cdnvideo.ru/products/medium/product_1301_974659786.png",
+    "price": 399,
+    "rating": 5
+  }
+]
